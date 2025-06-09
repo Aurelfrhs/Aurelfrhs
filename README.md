@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Let's+build+something+amazing!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+Profile!;Junior+Front-End+Developer;Always+learning+new+things;Let's+build+something+amazing!)](https://git.io/typing-svg)
   
 </div>
 
@@ -13,16 +13,17 @@
 ```javascript
 const aurel = {
     name: "Aurel Fahresi",
-    role: "Full Stack Developer",
+    role: "Junior Front-End Developer",
     location: "Indonesia 🇮🇩",
-    code: ["JavaScript", "Python", "Java", "HTML/CSS"],
+    code: ["JavaScript", "HTML/CSS", "Python", "Java"],
     technologies: {
-        frontend: ["React", "Vue.js", "HTML5", "CSS3", "Bootstrap"],
+        frontend: ["React", "Vue.js", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
         backend: ["Node.js", "Express", "Django", "Spring Boot"],
         database: ["MySQL", "MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
+        tools: ["Git", "Docker", "VS Code", "Figma", "Vite"]
     },
-    currentFocus: "Building scalable web applications",
+    currentFocus: "Mastering modern front-end frameworks and UI/UX design",
+    learningGoals: ["TypeScript", "Next.js", "React Native"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
@@ -33,22 +34,24 @@ const aurel = {
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### Frameworks & Libraries
+### Frontend Focus
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Databases & Tools
+### Tools & Others
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
@@ -69,15 +72,33 @@ const aurel = {
 
 ## 🌟 What I'm Up To
 
-- 🔭 **Currently working on:** Building a full-stack e-commerce platform
-- 🌱 **Learning:** TypeScript and Cloud Architecture (AWS)
-- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
-- 🤔 **Seeking help with:** System design and scalability best practices
-- 💬 **Ask me about:** Web development, JavaScript, React, or anything tech-related!
+- 🔭 **Currently working on:** Building responsive and interactive front-end applications
+- 🌱 **Learning:** TypeScript, Next.js, and advanced React patterns
+- 👯 **Looking to collaborate on:** Front-end projects and open source contributions
+- 🤔 **Seeking help with:** Best practices in modern front-end development and accessibility
+- 💬 **Ask me about:** HTML/CSS, JavaScript, React, Vue.js, or front-end development!
 - 📫 **How to reach me:** 
   - Email: aurelfrhs@gmail.com
   - LinkedIn: [linkedin.com/in/aurelfrhs](https://linkedin.com/in/aurelfrhs)
 - ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes! 🧩
+
+## 🎵 My Coding Playlist
+
+<div align="center">
+
+### 🎧 What I Listen to While Coding
+
+[![Spotify](https://img.shields.io/badge/-My%20Coding%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
+
+*Perfect mix of lo-fi, electronic, and ambient music to keep the code flowing* ✨
+
+**Current favorites:**
+- 🎶 Lo-Fi Hip Hop Radio
+- 🎶 Synthwave & Retrowave
+- 🎶 Ambient Focus Music
+- 🎶 Coffee Shop Jazz
+
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -103,6 +124,7 @@ const aurel = {
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aurelfrhs)
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aurelfrhs)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurelfrhs@gmail.com)
+  [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aurelfrhs)
   
 </div>
 
@@ -114,6 +136,6 @@ const aurel = {
   
   ### Thanks for visiting! 😊
   
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  *"The best way to learn to program is to write code."* – Dennis Ritchie
   
 </div>
