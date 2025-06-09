@@ -22,14 +22,12 @@ React, HTML/CSS, JavaScript, Bootstrap, a bit of Node.js
 - Still trying to center a div perfectly every time
 - Console.log() is my best friend for debugging
 
-## What I'm listening to while coding
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/aurelfrhs)
 
-🎵 **Current coding playlist:**
-- Everything u are - Hindia
-- Keepyousafe - Yahya  
-- Creep - Radiohead
-
-*Good music = good code, that's the rule*
+**My go-to tracks:**
+- [Everything u are - Hindia](https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC)
+- [Keepyousafe - Yahya](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)  
+- [Creep - Radiohead](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r)
 
 ## GitHub stats because why not
 
