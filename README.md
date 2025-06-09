@@ -78,17 +78,46 @@ const aurel = {
 
 ### 🎧 What I Listen to While Coding
 
-[![Spotify](https://img.shields.io/badge/-My%20Coding%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
+<div style="background: linear-gradient(135deg, #1DB954 0%, #191414 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  
+  [![Spotify](https://img.shields.io/badge/-🎵%20My%20Coding%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
+  
+  <div style="margin: 15px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=1DB954&center=true&vCenter=true&width=300&lines=♪+Currently+Vibing+to...;🎹+Lo-Fi+Beats;🎸+Coding+Sessions;🎵+Focus+Mode+ON" alt="Music Status" />
+  </div>
+  
+</div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX5trt9i14X7j?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!-- Spotify Player -->
+<div style="box-shadow: 0 8px 32px rgba(29, 185, 84, 0.3); border-radius: 12px; overflow: hidden; margin: 20px 0;">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX5trt9i14X7j?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
-*Perfect mix of lo-fi, electronic, and ambient music to keep the code flowing* ✨
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  
+  <div style="background: #191414; padding: 12px 20px; border-radius: 25px; border: 2px solid #1DB954;">
+    <span style="color: #1DB954;">🎶</span> <span style="color: white;">Lo-Fi Hip Hop</span>
+  </div>
+  
+  <div style="background: #191414; padding: 12px 20px; border-radius: 25px; border: 2px solid #1DB954;">
+    <span style="color: #1DB954;">🎹</span> <span style="color: white;">Synthwave</span>
+  </div>
+  
+  <div style="background: #191414; padding: 12px 20px; border-radius: 25px; border: 2px solid #1DB954;">
+    <span style="color: #1DB954;">🎸</span> <span style="color: white;">Ambient Focus</span>
+  </div>
+  
+  <div style="background: #191414; padding: 12px 20px; border-radius: 25px; border: 2px solid #1DB954;">
+    <span style="color: #1DB954;">☕</span> <span style="color: white;">Coffee Shop Jazz</span>
+  </div>
+  
+</div>
 
-**Current favorites:**
-- 🎶 Lo-Fi Hip Hop Radio
-- 🎶 Synthwave & Retrowave
-- 🎶 Ambient Focus Music
-- 🎶 Coffee Shop Jazz
+<div style="margin-top: 15px;">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=aurelfrhs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1db954&bar_color_cover=1db954" alt="Spotify Now Playing" />
+</div>
+
+*🎵 Perfect soundtrack for productive coding sessions and creative flow* ✨
 
 </div>
 
