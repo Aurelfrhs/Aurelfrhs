@@ -1,4 +1,4 @@
-# Hi there, I'm Aurel! 👋
+# Hi there, I'm Aurel!
 
 <div align="center">
   
@@ -8,27 +8,27 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const aurel = {
-    name: "Aurel Fahresi",
+    name: "Aurel Fristian Ramdhani Hatorangan Simanjuntak",
     role: "Junior Front-End Developer",
     location: "Indonesia 🇮🇩",
-    code: ["JavaScript", "HTML/CSS", "Python", "Java"],
+    code: ["JavaScript", "HTML/CSS"],
     technologies: {
-        frontend: ["React", "Vue.js", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "Spring Boot"],
-        database: ["MySQL", "MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code", "Figma", "Vite"]
+        frontend: ["React", "HTML", "CSS", "Bootstrap", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        database: ["MySQL", "PostgreSQL"],
+        tools: ["Git", "VS Code", "Figma"]
     },
-    currentFocus: "Mastering modern front-end frameworks and UI/UX design",
+    currentFocus: "Mastering modern Front-End frameworks and UI/UX design",
     learningGoals: ["TypeScript", "Next.js", "React Native"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ const aurel = {
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -70,19 +70,7 @@ const aurel = {
   
 </div>
 
-<div align="center">
-
-<!-- Spotify Player with Aesthetic Frame -->
-<div style="background: linear-gradient(45deg, #ff6b9d, #c471ed, #12c2e9); padding: 4px; border-radius: 16px; margin: 20px 0;">
-  <div style="background: #1a1a2e; border-radius: 12px; padding: 10px;">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4Tv4o7EM6U8YOa8tH3JRvC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  </div>
-</div>
-</div>
-
-
-
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   
@@ -90,7 +78,7 @@ const aurel = {
   
 </div>
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -108,8 +96,5 @@ const aurel = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Aurelfrhs&color=blueviolet&style=flat-square&label=Profile+Views)
   
-  ### Thanks for visiting! 😊
-  
-  *"The best way to learn to program is to write code."* – Dennis Ritchie
-  
+  ### Thanks for visiting!
 </div>
