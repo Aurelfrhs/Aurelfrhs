@@ -70,17 +70,7 @@ const aurel = {
   
 </div>
 
-## 🌟 What I'm Up To
 
-- 🔭 **Currently working on:** Building responsive and interactive front-end applications
-- 🌱 **Learning:** TypeScript, Next.js, and advanced React patterns
-- 👯 **Looking to collaborate on:** Front-end projects and open source contributions
-- 🤔 **Seeking help with:** Best practices in modern front-end development and accessibility
-- 💬 **Ask me about:** HTML/CSS, JavaScript, React, Vue.js, or front-end development!
-- 📫 **How to reach me:** 
-  - Email: aurelfrhs@gmail.com
-  - LinkedIn: [linkedin.com/in/aurelfrhs](https://linkedin.com/in/aurelfrhs)
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes! 🧩
 
 ## 🎵 My Coding Playlist
 
@@ -89,6 +79,8 @@ const aurel = {
 ### 🎧 What I Listen to While Coding
 
 [![Spotify](https://img.shields.io/badge/-My%20Coding%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX5trt9i14X7j?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 *Perfect mix of lo-fi, electronic, and ambient music to keep the code flowing* ✨
 
@@ -100,13 +92,7 @@ const aurel = {
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Aurelfrhs&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
 ## 📈 Activity Graph
 
